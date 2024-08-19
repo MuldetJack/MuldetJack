@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuldetJack/MuldetJack/main/banner_github.png" />
+  <img src="https://raw.githubusercontent.com/MuldetJack/MuldetJack/main/banner_github_dark.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tonny Jack</h1>
