@@ -38,9 +38,6 @@ I´m a Full Stack Developer with extensive experience in building robust and sca
 [![Gmail](https://img.shields.io/badge/-GMAIL-cc0025?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tonny.huamantuma@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Char_Al_)
 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
-[![TwitterMobidic](https://github-readme-twitter.gazf.vercel.app/api?id=MoBiDiC_BioInfo&layout=wide)](https://twitter.com/MoBiDiC_BioInfo)
-
 </details>
 
 
