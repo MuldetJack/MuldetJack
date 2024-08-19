@@ -6,112 +6,69 @@
 <h3 align="center">Full Stack developer🌟.</h3>
 
 ```js
-import SoftwareDeveloper from 'tonny.jack';
+import SoftwareDeveloper from 'tonny.jack.profile';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Tonny Jack Huamantuma';
+  name     = 'Tonny Jack Huamantuma Huayhuacuri';
   title    = 'Software Engineer';
-  aboutMe  = 'Full Stack developer';
   location = 'Santiago, Chile';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'Kotlin', 'C#', 'Typescript','Perl', 'Dart'];
+  languages  = ['Java', 'Kotlin', 'C#', 'TypeScript ','Perl', 'Dart'];
   databases  = ['PostgreSQL','SqlServer', 'MongoDB', 'MySQL'];
-  frameworks = ['Angular', 'Flutter', 'GraphQL'];
-  suites = ['Firebase', 'GPC', 'Aws'];
+  frameworks = ['Angular', 'Flutter', 'GraphQL', 'NestJS'];
 }
 ```
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+# Full Stack Developer - Experto en Kotlin, Dart, JavaScript, Java y C#
 
+## 🧑‍💻 Sobre mí
 
-- 🌱 I’m currently learning Web Development and other programming languages
+Soy un desarrollador Full Stack con amplia experiencia en la creación de aplicaciones robustas y escalables. Mi pasión por la tecnología y mi habilidad para trabajar en todas las capas de desarrollo me permiten construir soluciones completas y eficientes. A lo largo de mi carrera, he dominado una variedad de tecnologías y lenguajes que abarcan desde el frontend hasta el backend.
 
-- 📫 How to reach me **tonny.jack.2h@gmail.com**
+## 🚀 Habilidades
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+### Frontend
 
-<br>
+- **JavaScript**: Experiencia en desarrollo de interfaces de usuario dinámicas y responsivas utilizando frameworks y bibliotecas modernas.
+- **Dart**: Conocimiento en Flutter para el desarrollo de aplicaciones móviles y web, aprovechando la eficiencia y el rendimiento de Dart.
+- **HTML/CSS**: Desarrollo de interfaces web accesibles y adaptables con un enfoque en la experiencia del usuario.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+### Backend
 
-<br>
+- **Java**: Experiencia en el desarrollo de aplicaciones backend robustas utilizando Spring Boot y otras herramientas del ecosistema Java.
+- **C#**: Habilidad en la construcción de servicios y aplicaciones backend con .NET y ASP.NET Core, con un enfoque en la escalabilidad y el rendimiento.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+### Otras Competencias
 
-<br>
+- **Bases de Datos**: Diseño e implementación de bases de datos relacionales y no relacionales (SQL, NoSQL).
+- **APIs**: Desarrollo y consumo de APIs RESTful y SOAP.
+- **Control de Versiones**: Experiencia con Git y GitHub para el control de versiones y colaboración en proyectos.
+- **Metodologías Ágiles**: Familiaridad con metodologías ágiles como Scrum y Kanban.
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+## 🛠️ Proyectos Destacados
 
-<br>
+### [Proyecto 1](enlace-a-tu-proyecto)
+Descripción breve del proyecto, las tecnologías utilizadas y tu contribución principal.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### [Proyecto 2](enlace-a-tu-proyecto)
+Descripción breve del proyecto, las tecnologías utilizadas y tu contribución principal.
 
-[Tonny Jack](https://github.com/MuldetJack)
+## 📈 Experiencia Profesional
+
+- **[Posición Actual/Anterior]** en [Nombre de la Empresa]
+  - Descripción de responsabilidades y logros relevantes.
+
+- **[Posición Anterior]** en [Nombre de la Empresa]
+  - Descripción de responsabilidades y logros relevantes.
+
+## 📬 Contacto
+
+- **LinkedIn**: [Tu perfil de LinkedIn](enlace-a-tu-perfil)
+- **Correo Electrónico**: [tu.email@example.com](mailto:tu.email@example.com)
+- **GitHub**: [Tu perfil de GitHub](enlace-a-tu-perfil)
+
+## 📄 Licencia
