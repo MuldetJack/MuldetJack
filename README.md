@@ -1,12 +1,27 @@
-# MuldetJack
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat](https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view?utm_content=DAGOQm1Q10s&utm_campaign=designshare&utm_medium=link&utm_source=editor)" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tonny Jack</h1>
 <h3 align="center">Full Stack developer🌟.</h3>
 
-<br>
+```js
+import SoftwareDeveloper from 'tonny.jack';
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+class Bio extends SoftwareDeveloper {
+  name     = 'Tonny Jack Huamantuma';
+  title    = 'Software Engineer';
+  aboutMe  = 'Full Stack developer';
+  location = 'Santiago, Chile';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java', 'Kotlin', 'C#', 'Typescript','Perl', 'Dart'];
+  databases  = ['PostgreSQL','SqlServer', 'MongoDB', 'MySQL'];
+  frameworks = ['Angular', 'Flutter', 'GraphQL'];
+  suites = ['Firebase', 'GPC', 'Aws'];
+}
+```
 
 <br>
 
@@ -91,11 +106,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
 
 <br>
 
