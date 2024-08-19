@@ -15,60 +15,57 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'Kotlin', 'C#', 'TypeScript ','Perl', 'Dart'];
+  languages  = ['Java', 'Kotlin', 'C#', 'TypeScript ','Perl', 'Dart', 'Php', 'Python'];
   databases  = ['PostgreSQL','SqlServer', 'MongoDB', 'MySQL'];
-  frameworks = ['Angular', 'Flutter', 'GraphQL', 'NestJS'];
+  frameworks = ['Angular', 'Flutter', 'GraphQL', 'NestJS', 'NodeJS'];
 }
 ```
 
 <br>
 
-# Full Stack Developer - Experto en Kotlin, Dart, JavaScript, Java y C#
+# Full Stack Developer
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-Soy un desarrollador Full Stack con amplia experiencia en la creación de aplicaciones robustas y escalables. Mi pasión por la tecnología y mi habilidad para trabajar en todas las capas de desarrollo me permiten construir soluciones completas y eficientes. A lo largo de mi carrera, he dominado una variedad de tecnologías y lenguajes que abarcan desde el frontend hasta el backend.
+I´m a Full Stack Developer with extensive experience in building robust and scalable applications. My passion for technology and my ability to work across all layers of development enable me to create comprehensive and efficient solutions. Throughout my career, I have mastered a variety of technologies and languages spanning from frontend to backend.
 
-## 🚀 Habilidades
+## 🚀 Skills
 
 ### Frontend
 
-- **JavaScript**: Experiencia en desarrollo de interfaces de usuario dinámicas y responsivas utilizando frameworks y bibliotecas modernas.
-- **Dart**: Conocimiento en Flutter para el desarrollo de aplicaciones móviles y web, aprovechando la eficiencia y el rendimiento de Dart.
-- **HTML/CSS**: Desarrollo de interfaces web accesibles y adaptables con un enfoque en la experiencia del usuario.
+- **Android**: Experienced in developing dynamic using kotlin with xml and jetpack compose.
+- **Angular**: Experienced in developing using typescript.
+- **Flutter**: Experienced in developing using dart.
+- **JavaScript**: Experienced in developing dynamic and responsive user interfaces using modern frameworks and libraries.
+- **Dart**: Proficient in Flutter for building mobile and web applications, leveraging Dart's performance and efficiency.
+- **HTML/CSS**: Expertise in crafting accessible and adaptable web interfaces with a focus on user experience.
 
 ### Backend
 
-- **Java**: Experiencia en el desarrollo de aplicaciones backend robustas utilizando Spring Boot y otras herramientas del ecosistema Java.
-- **C#**: Habilidad en la construcción de servicios y aplicaciones backend con .NET y ASP.NET Core, con un enfoque en la escalabilidad y el rendimiento.
+- **Java**: Skilled in developing robust backend applications using Spring Boot and other Java ecosystem tools.
+- **C#**: Experience in building backend services and applications with .NET and ASP.NET Core, focusing on scalability and performance.
+- **NestJS**: Skilled in developing robust backend applications using TypeScript.
 
-### Otras Competencias
+### Other Competencies
 
-- **Bases de Datos**: Diseño e implementación de bases de datos relacionales y no relacionales (SQL, NoSQL).
-- **APIs**: Desarrollo y consumo de APIs RESTful y SOAP.
-- **Control de Versiones**: Experiencia con Git y GitHub para el control de versiones y colaboración en proyectos.
-- **Metodologías Ágiles**: Familiaridad con metodologías ágiles como Scrum y Kanban.
+- **Databases**: Design and implementation of relational and non-relational databases (SQL, NoSQL).
+- **APIs**: Development and consumption of RESTful and SOAP APIs.
+- **Platforms**: Firebase, Aws, GPC.
+- **DevOps**: CI/CD with Jenkins.
+- **Version Control**: Proficient with Git and GitHub for version control and project collaboration.
+- **Agile Methodologies**: Familiar with Agile methodologies such as Scrum and Kanban.
 
-## 🛠️ Proyectos Destacados
+## 🛠️ Featured Projects
 
-### [Proyecto 1](enlace-a-tu-proyecto)
-Descripción breve del proyecto, las tecnologías utilizadas y tu contribución principal.
+### [Project 1](link-to-your-project)
+Brief description of the project, technologies used, and your main contributions.
 
-### [Proyecto 2](enlace-a-tu-proyecto)
-Descripción breve del proyecto, las tecnologías utilizadas y tu contribución principal.
+### [Project 2](link-to-your-project)
+Brief description of the project, technologies used, and your main contributions.
 
-## 📈 Experiencia Profesional
 
-- **[Posición Actual/Anterior]** en [Nombre de la Empresa]
-  - Descripción de responsabilidades y logros relevantes.
+## 📬 Contact
 
-- **[Posición Anterior]** en [Nombre de la Empresa]
-  - Descripción de responsabilidades y logros relevantes.
-
-## 📬 Contacto
-
-- **LinkedIn**: [Tu perfil de LinkedIn](enlace-a-tu-perfil)
-- **Correo Electrónico**: [tu.email@example.com](mailto:tu.email@example.com)
-- **GitHub**: [Tu perfil de GitHub](enlace-a-tu-perfil)
-
-## 📄 Licencia
+- **LinkedIn**: [Tonny Huamantuma](https://www.linkedin.com/in/tonny-huamantuma/)
+- **Email**: [tonny.huamantuma@gmail.com](mailto:tonny.huamantuma@gmail.com)
+- **GitHub**: [MuldetJack](https://github.com/MuldetJack)
