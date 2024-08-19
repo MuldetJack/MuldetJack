@@ -35,7 +35,7 @@ I´m a Full Stack Developer with extensive experience in building robust and sca
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-van-goethem/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Charles_Van_Goethem)
+[![Gmail](https://img.shields.io/badge/-GMAIL-cc0025?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tonny.huamantuma@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Char_Al_)
 
 [![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
@@ -47,8 +47,8 @@ I´m a Full Stack Developer with extensive experience in building robust and sca
 <details>
   <summary><b>Skills</b></summary>
 
-[![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![perl](https://img.shields.io/badge/perl-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)](https://www.perl.org/)
+[![kotlin](https://img.shields.io/badge/kotlin-★★★-lightgrey?labelColor=3776AB&logo=Kotlin&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-★★☆-lightgrey?labelColor=39457E&logo=Java&style=for-the-badge&logoColor=white)](https://www.perl.org/)
 [![R](https://img.shields.io/badge/R-★★☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
 
 [![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
@@ -177,31 +177,6 @@ I´m a Full Stack Developer with extensive experience in building robust and sca
 ![streak](https://streak-stats.demolab.com/?user=char-al&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 </details>
-
-### Frontend
-
-- **Android**: Experienced in developing dynamic using kotlin with xml and jetpack compose (Retrofit, Room, DataStore).
-- **Angular**: Experienced in developing using typescript.
-- **Flutter**: Experienced in developing using dart.
-- **JavaScript**: Experienced in developing dynamic and responsive user interfaces using modern frameworks and libraries.
-- **Dart**: Proficient in Flutter for building mobile and web applications, leveraging Dart's performance and efficiency.
-- **HTML/CSS**: Expertise in crafting accessible and adaptable web interfaces with a focus on user experience.
-
-### Backend
-
-- **Java**: Skilled in developing robust backend applications using Spring Boot and other Java ecosystem tools.
-- **C#**: Experience in building backend services and applications with .NET and ASP.NET Core, focusing on scalability and performance.
-- **NestJS**: Skilled in developing robust backend applications using TypeScript.
-
-### Other Competencies
-
-- **Databases**: Design and implementation of relational and non-relational databases (SQL, NoSQL).
-- **APIs**: Development and consumption of RESTful and SOAP APIs.
-- **Platforms**: Firebase, Aws, GPC.
-- **DevOps**: CI/CD with Jenkins.
-- **Version Control**: Proficient with Git and GitHub for version control and project collaboration.
-- **Agile Methodologies**: Familiar with Agile methodologies such as Scrum and Kanban.
-
 
 ## 📬 Contact
 
