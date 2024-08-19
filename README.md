@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view](https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view)" />
+  <img src="https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view?utm_content=DAGOQm1Q10s&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tonny Jack</h1>
@@ -30,7 +30,7 @@ class Skills extends SoftwareDeveloper {
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **tonny.jack.2h@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
