@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat](https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view?utm_content=DAGOQm1Q10s&utm_campaign=designshare&utm_medium=link&utm_source=editor)" />
+  <img src="[https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view](https://www.canva.com/design/DAGOQm1Q10s/42fZ-U9Cn88wDNI4GdRTMA/view)" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tonny Jack</h1>
